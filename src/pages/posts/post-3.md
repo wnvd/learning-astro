@@ -1,7 +1,7 @@
 ---
 layout: ../../layouts/MarkdownPostLayout.astro
-title: My Third Blog Post
-author: Astro Learner
+title: 'My Third Blog Post'
+author: 'wnvd'
 description: "I had some challenges, but asking in the community really helped!"
 publishedDate: 6-19-2023
 image: 
